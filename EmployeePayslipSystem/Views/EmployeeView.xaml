@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="EmployeePayslipSystem.Views.EmployeeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border BorderBrush="Gray" BorderThickness="1" Padding="15">
+            <StackPanel>
+                <TextBlock Text="Employee Details"
+                           FontSize="16"
+                           FontWeight="Bold"
+                           Margin="0,0,0,15"/>
+
+                <TextBlock Text="Employee ID"/>
+                <TextBox Text="{Binding Employee.EmployeeId, UpdateSourceTrigger=PropertyChanged}" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Employee Name"/>
+                <TextBox Text="{Binding Employee.EmployeeName, UpdateSourceTrigger=PropertyChanged}" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Designation"/>
+                <TextBox Text="{Binding Employee.Designation, UpdateSourceTrigger=PropertyChanged}" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Joining Date"/>
+                <DatePicker SelectedDate="{Binding Employee.JoiningDate}" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Basic Salary (₹)"/>
+                <TextBox Text="{Binding Employee.BasicSalary}" Margin="0,5,0,10"/>
+
+                <TextBlock Text="HRA (%)"/>
+                <TextBox Text="{Binding Employee.HRA_Percent}" Margin="0,5,0,10"/>
+
+                <TextBlock Text="DA (%)"/>
+                <TextBox Text="{Binding Employee.DA_Percent}" Margin="0,5,0,10"/>
+
+                <TextBlock Text="Other Allowance (%)"/>
+                <TextBox Text="{Binding Employee.OtherAllowance_Percent}" Margin="0,5,0,10"/>
+
+                <TextBlock Text="PF (%)"/>
+                <TextBox Text="{Binding Employee.PF_Percent}" Margin="0,5,0,10"/>
+
+                <TextBlock Text="ESI (%)"/>
+                <TextBox Text="{Binding Employee.ESI_Percent}" Margin="0,5,0,10"/>
+
+                <Button Content="Save Employee"
+                        Command="{Binding SaveCommand}"
+                        Background="DarkGreen"
+                        Foreground="White"
+                        Height="35"
+                        FontWeight="Bold"
+                        Margin="0,10,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Column="1" BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10,0,0,0">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Text="Employee List" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                <DataGrid Grid.Row="1"
+                          ItemsSource="{Binding Employees}"
+                          AutoGenerateColumns="False"
+                          IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Employee ID" Binding="{Binding EmployeeId}" Width="100"/>
+                        <DataGridTextColumn Header="Name" Binding="{Binding EmployeeName}" Width="150"/>
+                        <DataGridTextColumn Header="Designation" Binding="{Binding Designation}" Width="120"/>
+                        <DataGridTextColumn Header="Joining Date" Binding="{Binding JoiningDate, StringFormat=dd-MMM-yyyy}" Width="120"/>
+                        <DataGridTextColumn Header="Basic Salary" Binding="{Binding BasicSalary, StringFormat=₹{0:N2}}" Width="120"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

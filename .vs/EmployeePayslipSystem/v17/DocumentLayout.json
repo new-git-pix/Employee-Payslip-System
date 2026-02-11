@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Manju\\EmployeePayslipSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\viewmodels\\payslipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\viewmodels\\payslipviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\views\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\views\\employeeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\models\\payslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\models\\payslip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|c:\\manju\\employeepayslipsystem\\employeepayslipsystem\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\data\\paysliprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\data\\paysliprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\views\\employeeview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\views\\employeeview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\views\\payslipview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\views\\payslipview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\views\\payslipview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\views\\payslipview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\views\\payslipprintview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\views\\payslipprintview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\views\\payslipprintview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\views\\payslipprintview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|C:\\Manju\\EmployeePayslipSystem\\employeepayslipsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03D28CBC-BB31-4EB5-B6CD-5E5A26675056}|EmployeePayslipSystem\\EmployeePayslipSystem.csproj|solutionrelative:employeepayslipsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\App.xaml.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\App.xaml.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:45:51.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\Data\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:37:55.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Helpers\\DbHelper.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Helpers\\DbHelper.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Helpers\\DbHelper.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\Helpers\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:42:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:37:19.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payslip.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Models\\Payslip.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Models\\Payslip.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Models\\Payslip.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\Models\\Payslip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:30:58.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayslipViewModel.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\ViewModels\\PayslipViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\ViewModels\\PayslipViewModel.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\ViewModels\\PayslipViewModel.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\ViewModels\\PayslipViewModel.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAK8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:34:48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeView.xaml",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\EmployeeView.xaml",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Views\\EmployeeView.xaml",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\EmployeeView.xaml",
+              "RelativeToolTip": "EmployeePayslipSystem\\Views\\EmployeeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T06:38:02.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\App.config",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\App.config",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\App.config",
+              "RelativeToolTip": "EmployeePayslipSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-06T05:43:33.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:38:46.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:21:56.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PayslipRepository.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Data\\PayslipRepository.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Data\\PayslipRepository.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Data\\PayslipRepository.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\Data\\PayslipRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:34:08.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeView.xaml.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\EmployeeView.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Views\\EmployeeView.xaml.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\EmployeeView.xaml.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\Views\\EmployeeView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:54:23.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PayslipView.xaml",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\PayslipView.xaml",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Views\\PayslipView.xaml",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\PayslipView.xaml",
+              "RelativeToolTip": "EmployeePayslipSystem\\Views\\PayslipView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T06:35:52.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PayslipView.xaml.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\PayslipView.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Views\\PayslipView.xaml.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\PayslipView.xaml.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\Views\\PayslipView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:36:24.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PayslipPrintView.xaml",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\PayslipPrintView.xaml",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Views\\PayslipPrintView.xaml",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\PayslipPrintView.xaml",
+              "RelativeToolTip": "EmployeePayslipSystem\\Views\\PayslipPrintView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T06:40:24.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PayslipPrintView.xaml.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\PayslipPrintView.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\Views\\PayslipPrintView.xaml.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\Views\\PayslipPrintView.xaml.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\Views\\PayslipPrintView.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:40:50.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EmployeePayslipSystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:34:07.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EmployeePayslipSystem\\MainWindow.xaml",
+              "ToolTip": "C:\\Manju\\EmployeePayslipSystem\\EmployeePayslipSystem\\MainWindow.xaml",
+              "RelativeToolTip": "EmployeePayslipSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-06T05:34:07.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
