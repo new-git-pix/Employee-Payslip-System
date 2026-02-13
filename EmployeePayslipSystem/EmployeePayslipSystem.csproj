@@ -61,6 +61,7 @@
     </ApplicationDefinition>
     <Compile Include="Commands\RelayCommand.cs" />
     <Compile Include="Data\PayslipRepository.cs" />
+    <Compile Include="Helpers\BoolToVisibilityConverter.cs" />
     <Compile Include="Helpers\DbHelper.cs" />
     <Compile Include="Models\Payslip.cs" />
     <Compile Include="ViewModels\EmployeeViewModel.cs" />
